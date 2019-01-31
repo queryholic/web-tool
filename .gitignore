@@ -7,3 +7,13 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
+
+\.idea/
+\.mvn/wrapper/
+*/node/*
+*/node_modules/*
+*.iml
+
+mvnw
+
+mvnw\.cmd
